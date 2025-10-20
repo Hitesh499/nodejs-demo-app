@@ -23,7 +23,7 @@ router.get('/', (req, res) => {
       </head>
       <body>
         <h1>Hello from Node.js 🚀</h1>
-        <p>Welcome to your Sample node.js web page!</p>
+        <p>Welcome! Your app is up and running.</p>
       </body>
     </html>
   `);
